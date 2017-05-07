@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<trains>
+<train>
+<number>55710</number>
+<name>OMLF SQB PASSENGER</name>
+</train>
+<train>
+<number>56138</number>
+<name>ONR UAM PASSENGER</name>
+</train>
+<train>
+<number>56141</number>
+<name>ONR UAM PASSENGER</name>
+</train>
+<train>
+<number>56143</number>
+<name>ONR UAM PASSENGER</name>
+</train>
+<train>
+<number>59208</number>
+<name>OKHA BVC PASSENGER</name>
+</train>
+<train>
+<number>59504</number>
+<name>OKHA VG PASSENGER</name>
+</train>
+<train>
+<number>59548</number>
+<name>OKHA ADI PASSENGER</name>
+</train>
+<train>
+<number>67257</number>
+<name>OGL TEL PASSENGER</name>
+</train>
+<train>
+<number>67260</number>
+<name>OGL BZA PASSENGER</name>
+</train>
+<train>
+<number>67280</number>
+<name>OGL GDR PASSENGER</name>
+</train>
+<train>
+<number>67297</number>
+<name>OGL BZA PASSENGER</name>
+</train>
+<train>
+<number>12819</number>
+<name>ORISSA S KRANTI</name>
+</train>
+<train>
+<number>12820</number>
+<name>ORISSA S KRNTI</name>
+</train>
+<train>
+<number>16337</number>
+<name>OKHA ERS EXPRES</name>
+</train>
+<train>
+<number>16338</number>
+<name>OKHA EXPRESS</name>
+</train>
+<train>
+<number>18402</number>
+<name>OKHA PURI EXP</name>
+</train>
+<train>
+<number>19252</number>
+<name>OKHA SOMNATH EX</name>
+</train>
+<train>
+<number>19569</number>
+<name>OKHA BSB EXPRES</name>
+</train>
+<train>
+<number>19575</number>
+<name>OKHA  NDT EXP</name>
+</train>
+<train>
+<number>22905</number>
+<name>OKHA HOWRAH EXP</name>
+</train>
+<train>
+<number>11074</number>
+<name>CHENNAI LTT EXP</name>
+</train>
+<train>
+<number>14155</number>
+<name>CNB UHP EXP</name>
+</train>
+<train>
+<number>15032</number>
+<name>CDG RMR  EXP</name>
+</train>
+<train>
+<number>15053</number>
+<name>CPR LJN EXP</name>
+</train>
+<train>
+<number>15205</number>
+<name>CHITRAKUT  EXP</name>
+</train>
+<train>
+<number>15206</number>
+<name>CHITRAKUT EXP</name>
+</train>
+<train>
+<number>22443</number>
+<name>CNB BDTS SF</name>
+</train>
+<train>
+<number>51027</number>
+<name>CSTM PVR PASSENGER</name>
+</train>
+<train>
+<number>51029</number>
+<name>CSTM BJP PASSENGER</name>
+</train>
+<train>
+<number>51033</number>
+<name>CSTM SNSI PASSENGER</name>
+</train>
+<train>
+<number>51111</number>
+<name>CSN DHI PASSENGER</name>
+</train>
+<train>
+<number>51113</number>
+<name>CSN DHI PASSENGER</name>
+</train>
+<train>
+<number>51115</number>
+<name>CSN DHI PASSENGER</name>
+</train>
+<train>
+<number>51119</number>
+<name>CSN DHI PASSENGER</name>
+</train>
+<train>
+<number>51153</number>
+<name>CSTM BSL PASSENGER</name>
+</train>
+<train>
+<number>51190</number>
+<name>COI ET PASSENGER</name>
+</train>
+<train>
+<number>51254</number>
+<name>CWA AMLA PASSENGER</name>
+</train>
+<train>
+<number>51406</number>
+<name>CLR MRJ PASSENGER</name>
+</train>
+<train>
+<number>51606</number>
+<name>CHRM KMZ PASSENGER</name>
+</train>
+<train>
+<number>51676</number>
+<name>CPU KTE PASSENGER</name>
+</train>
+<train>
+<number>51677</number>
+<name>CPU SKTN PASSENGER</name>
+</train>
+<train>
+<number>51680</number>
+<name>CPU KTE PASSENGER</name>
+</train>
+<train>
+<number>51754</number>
+<name>CHRM REWA PASSENGER</name>
+</train>
+<train>
+<number>51755</number>
+<name>CHRM APR PASSENGER</name>
+</train>
+<train>
+<number>51802</number>
+<name>CNB KURJ PASSENGER</name>
+</train>
+
+
+
+</trains>

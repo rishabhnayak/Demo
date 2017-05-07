@@ -23,10 +23,12 @@
     <string name="category_DivertedTrains">Diverted Trains</string>
 
     <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
-    <string name="category_numbers">Numbers</string>
+    <string name="category_canceledTrains">Canceled Trains</string>
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
-    <string name="category_family">Family Members</string>
+    <string name="category_TrainRoute">Train Route</string>
 
     <string name="category_RescheduledTrains">Rescheduled Trains</string>
+
+    <string name="category_stns_status">Station Status</string>
 </resources>

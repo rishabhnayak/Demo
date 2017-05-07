@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+    <country >
+        <name>
+            India
+        </name>
+        <capital>
+            New Delhi
+        </capital>
+    </country>
+
+    <country >
+        <name>
+            Australia
+        </name>
+        <capital>
+            Canberra
+        </capital>
+    </country>
+
+    <country >
+        <name>
+            USA
+        </name>
+        <capital>
+            Washington, D.C.
+        </capital>
+    </country>
+    <country >
+        <name>
+            bhiahbia
+        </name>
+        <capital>
+           trea baap tera baap
+        </capital>
+    </country>
+</countries>
+
+

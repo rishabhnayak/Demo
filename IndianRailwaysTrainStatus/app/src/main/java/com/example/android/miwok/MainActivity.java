@@ -65,6 +65,23 @@ Boolean gotthekey=false;
                 startActivity(i);
             }
         });
+        TextView train_route= (TextView) findViewById(R.id.train_route);
+        train_route.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(MainActivity.this, TrainRoute.class);
+                startActivity(i);
+            }
+        });
+
+        TextView select_station= (TextView) findViewById(R.id.select_station);
+        select_station.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(MainActivity.this, Select_Station.class);
+                startActivity(i);
+            }
+        });
 
         sd = this.getSharedPreferences("com.example.android.miwok", Context.MODE_PRIVATE);
         gotthekey=false;
@@ -87,10 +104,7 @@ Boolean gotthekey=false;
     }
 
 
-    public void family_activity(View view) {
-        Intent i = new Intent(this, FamilyActivity.class);
-        startActivity(i);
-    }
+
 
 
     public void DivertedTrains_Activity(View view) {
@@ -103,6 +117,8 @@ Boolean gotthekey=false;
         Intent i = new Intent(this, PhrasesActivity.class);
         startActivity(i);
     }
+
+
 //    public void ReschueduledTrains_Activity(View view) {
 //        Intent i = new Intent(this, PhrasesActivity.class);
 //        startActivity(i);

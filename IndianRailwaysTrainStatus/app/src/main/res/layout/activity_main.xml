@@ -26,7 +26,7 @@
         android:id="@+id/numbers"
         style="@style/CategoryStyle"
         android:background="@color/category_numbers"
-        android:text="Canceled Trains"
+        android:text="@string/category_canceledTrains"
 
         />
     <TextView
@@ -43,13 +43,19 @@
         android:text="@string/category_DivertedTrains"
         android:onClick="DivertedTrains_Activity"/>
 
+    <TextView
+        android:id="@+id/select_station"
+        style="@style/CategoryStyle"
+        android:background="@color/category_stn_status"
+        android:text="@string/category_stns_status"
+        android:onClick="select_station"/>
 
     <TextView
-        android:id="@+id/family"
+        android:id="@+id/train_route"
         style="@style/CategoryStyle"
         android:background="@color/category_family"
-        android:text="@string/category_family"
-        android:onClick="family_activity"/>
+        android:text="@string/category_TrainRoute"
+        android:onClick="train_route_activity"/>
 
 
 

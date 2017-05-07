@@ -33,12 +33,18 @@
             android:label="Canceled Trains"/>
         <activity android:name=".PhrasesActivity"
             android:label="Phrases"/>
-        <activity android:name=".FamilyActivity"
-            android:label="family"/>
+        <activity android:name=".TrainRoute"
+            android:label="Train Route"/>
         <activity android:name=".DivertedTrains"
             android:label="Diverted Trains"/>
         <activity android:name=".RescheduledTrains"
             android:label="Rescheduled Trains"/>
+        <activity android:name=".Select_Train"
+            android:label="Select Train"/>
+        <activity android:name=".Select_Station"
+            android:label="Select Station"/>
+        <activity android:name=".Station_Status"
+            android:label="Station Status"/>
     </application>
 
 </manifest>
